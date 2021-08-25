@@ -1,0 +1,6 @@
+# https://osp4diss.vlsm.org/ETC/logCodes.txt
+# ZCZC WEEK# MINUTES LogCode Description
+
+ZCZC 00 5 Enroll class for Operating Systems and etc.
+ZCZC 00 5 Create new github account
+ZCZC 00 5 Create new repositories and fill my log
