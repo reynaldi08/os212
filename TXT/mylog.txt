@@ -4,3 +4,4 @@
 ZCZC 00 5 Enroll class for Operating Systems and etc.
 ZCZC 00 5 Create new github account
 ZCZC 00 5 Create new repositories and fill my log
+ZCZC 00 70 Reading the OS assignment
