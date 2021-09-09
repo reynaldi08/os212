@@ -1,7 +1,12 @@
 # https://osp4diss.vlsm.org/ETC/logCodes.txt
 # ZCZC WEEK# MINUTES LogCode Description
 
-ZCZC 00 5 Enroll class for Operating Systems and etc.
-ZCZC 00 5 Create new github account
-ZCZC 00 5 Create new repositories and fill my log
-ZCZC 00 70 Reading the OS assignment
+ZCZC 00 5 L01 Enroll class for Operating Systems and etc.
+ZCZC 00 5 L03 Create new github account
+ZCZC 00 5 L04 Create new repositories and fill my log
+ZCZC 00 70 L10  Reading the OS assignments
+ZCZC 01 10 L01 Join Discord server
+ZCZC 01 210 L11 Do the assignment (Virtual Box and GitHub)
+ZCZC 01 90 L11 Reading the material for week 01
+:wq
+
