@@ -1,1 +1,3 @@
-https://glints.com/id/lowongan/sistem-operasi-operating-system-adalah/#.YTzHbJ0zYuU
+# LINKS
+## Links that I think are helpful for this Operating System Course
+[1. INTRODUCTION OPERATING SYSTEM](https://www.sekawanmedia.co.id/sistem-operasi/)
