@@ -9,5 +9,5 @@
   ### b. [Some example of the operating system](https://edu.gcfglobal.org/en/computerbasics/understanding-operating-systems/1/)
   #### This site contains some example of the operating systems that people use these days. Also the history and the benefits of use one of the oeprating systems that already popular for the users.
 ## 2. Sofware Licenses
-  ### a. [Types](https://snyk.io/learn/what-is-a-software-license/)
+  ### a. [Definiton & Types](https://snyk.io/learn/what-is-a-software-license/)
   #### In week 1, we discuss about the license and this site give me some good explaination about the software license and some things that I need to know how the software license work 
