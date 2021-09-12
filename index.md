@@ -1,4 +1,4 @@
-[Home Page](.) | [Log](TXT/mylog.txt) | [Links](links.md) | [Week's Material]
+[Home Page](.) | [Log](TXT/mylog.txt) | [Links](links.md) | [Week's Material](weeks.md)
 
 # Welcome to my repository page for Operating Systems 2021-2  (Odd Semester 2021/2022).
 ## Belongs to : Reynaldi Oktavianus
