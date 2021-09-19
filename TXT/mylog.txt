@@ -7,13 +7,16 @@ ZCZC 00 5 L04 Create new repositories and fill my log
 ZCZC 00 70 L10  Reading the OS assignments
 ZCZC 01 10 L01 Join Discord server
 ZCZC 01 30 L11 Do the assignment1 (install PUTTY)
-ZCZC 01 45 L12 Quite hard to acces my Virtual Box 
-ZCZC 01 75 L13 Do the assigntment 3 and try some commands
-ZCZC 01 75 L14 Dress up my Virtual Guest buy I cant copy paste
-ZCZC 01 30 L15 The command for cloning not too long for assignment 5
-ZCZC 01 60 L16 Create the links.md to put my links that I think helpful
-ZCZC 01 30 L17 Do this log to fill mylog.txt for this week
-ZCZC 01 50 L18 Try the commands in the assignment 8
-ZCZC 01 75 L19 Reading the material for week 01
+ZCZC 01 75 L11 Dress up my Virtual Guest buy I cant copy paste
+ZCZC 01 30 L11 The command for cloning not too long for assignment 5
+ZCZC 01 60 L11 Create the links.md to put my links that I think helpful
+ZCZC 01 30 L11 Do this log to fill mylog.txt for this week
+ZCZC 01 75 L11 Reading the material for week 01
+ZCZC 02 60 L12 Reading the material chapter 16 and 17
+ZCZC 02 20 L12 Try the demos
+ZCZC 02 200 L12 Watch the videos
+ZCZC 02 75 L12 Do the GnuPG key until export my public key
+ZCZC 02 15 L12 Review the peer links
+ZCZC 02 30 Try the "myscript.sh" 
 
 
