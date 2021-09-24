@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash 
 # Copyright (C) 2020-2021 Cicak Bin Kadal
 
 # This free document is distributed in the hope that it will be 
