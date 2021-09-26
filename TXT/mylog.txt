@@ -17,6 +17,12 @@ ZCZC 02 20 L12 Try the demos
 ZCZC 02 200 L12 Watch the videos
 ZCZC 02 75 L12 Do the GnuPG key until export my public key
 ZCZC 02 15 L12 Review the peer links
-ZCZC 02 30 Try the "myscript.sh" 
-
-
+ZCZC 02 30 L12 Try the "myscript.sh" 
+ZCZC 03 45 L13 Read the material
+ZCZC 03 60 L13 Try the demos
+ZCZC 03 15 L13 Check the bash aliases for updating
+ZCZC 03 50 L13 Make a new disk and try it
+ZCZC 03 20 L13 Update and add the links
+ZCZC 03 30 L13 Review the peer links
+ZCZC 03 10 L13 Update my log in week 03
+ZCZC 03 10 L13 Update the myscript.sh
