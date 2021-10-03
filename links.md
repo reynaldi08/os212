@@ -21,3 +21,8 @@ permalink: /LINKS/
   ## 4. File Systems
   ### a. [File system interface](https://www.netbsd.org/docs/internals/en/chap-file-system.html)
   #### In this page, there some more explanation about the interface in the file systems and there some example of the code that can be use for the virtual file systems (vfs).
+  ## 5. C language
+  ### a. [How does it works(Explaination)](https://www.programiz.com/c-programming)
+  #### I put the page that explain the C language because I think I need to start understanding the C language faster because every quiz, there's always some topic using the C language and also Sir Rahmat ask the class alot about the C language.
+  ### b. [In operating systems](https://www.guru99.com/c-programming-language.html#:~:text='C'%20language%20is%20widely%20used,using%20'C'%20programming%20language.)
+  #### The connection about the operating systems and used C language as the programming language. Also some example how to try it and the benefits of using C language
