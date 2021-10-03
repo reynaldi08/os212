@@ -8,21 +8,30 @@ ZCZC 00 70 L10  Reading the OS assignments
 ZCZC 01 10 L01 Join Discord server
 ZCZC 01 30 L11 Do the assignment1 (install PUTTY)
 ZCZC 01 75 L11 Dress up my Virtual Guest buy I cant copy paste
-ZCZC 01 30 L11 The command for cloning not too long for assignment 5
-ZCZC 01 60 L11 Create the links.md to put my links that I think helpful
-ZCZC 01 30 L11 Do this log to fill mylog.txt for this week
-ZCZC 01 75 L11 Reading the material for week 01
-ZCZC 02 60 L12 Reading the material chapter 16 and 17
+ZCZC 01 30 L15 The command for cloning not too long for assignment 5
+ZCZC 01 60 L16 Create the links.md to put my links that I think helpful
+ZCZC 01 30 L17 Do this log to fill mylog.txt for this week
+ZCZC 01 75 L18 Reading the material for week 01
+ZCZC 02 60 L11 Reading the material chapter 16 and 17
 ZCZC 02 20 L12 Try the demos
-ZCZC 02 200 L12 Watch the videos
-ZCZC 02 75 L12 Do the GnuPG key until export my public key
-ZCZC 02 15 L12 Review the peer links
-ZCZC 02 30 L12 Try the "myscript.sh" 
-ZCZC 03 45 L13 Read the material
-ZCZC 03 60 L13 Try the demos
+ZCZC 02 200 L13 Watch the videos
+ZCZC 02 75 L14 Do the GnuPG key until export my public key
+ZCZC 02 15 L21 Review the peer links
+ZCZC 02 30 L21 Try the "myscript.sh" 
+ZCZC 03 45 L11 Read the material
+ZCZC 03 60 L12 Try the demos
 ZCZC 03 15 L13 Check the bash aliases for updating
-ZCZC 03 50 L13 Make a new disk and try it
-ZCZC 03 20 L13 Update and add the links
-ZCZC 03 30 L13 Review the peer links
-ZCZC 03 10 L13 Update my log in week 03
-ZCZC 03 10 L13 Update the myscript.sh
+ZCZC 03 50 L15 Make a new disk and try it
+ZCZC 03 20 L16 Update and add the links
+ZCZC 03 30 L17 Review the peer links
+ZCZC 03 10 L18 Update my log in week 03
+ZCZC 03 10 L19 Update the myscript.sh
+ZCZC 04 75 L11 Read the week's material (OSC10 chapter 9)
+ZCZC 04 90 L12 Try the demos
+ZCZC 04 60 L13 Do the work previous mid term problem
+ZCZC 04 45 L14 Install the Package List 2 in OVM
+ZCZC 04 35 L15 Fetch and Extraxt the file for Week 04
+ZCZC 04 60 L16 Update my links.md
+ZCZC 04 30 L17 Review my peer links from 209-218
+ZCZC 04 20 L18 Update my activities in mylog.txt
+ZCZC 04 10 L19 Submit my assignment using myscript.sh
