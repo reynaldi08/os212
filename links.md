@@ -2,7 +2,7 @@
 permalink: /LINKS/
 ---
 
-[Home Page](https://github.com/reynaldi08/os212) | [Log](TXT/mylog.txt) | [Links](https://reynaldi08.github.io/os212/LINK) | [Week's Material](weeks.md)
+[Home Page](https://github.com/reynaldi08/os212) | [Log](TXT/mylog.txt) | [Links](https://reynaldi08.github.io/os212/LINK)
 
 # LINKS
 ## This page contains some links that help to understand Operating Systems
