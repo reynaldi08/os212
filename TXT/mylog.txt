@@ -35,3 +35,11 @@ ZCZC 04 60 L16 Update my links.md
 ZCZC 04 30 L17 Review my peer links from 209-218
 ZCZC 04 20 L18 Update my activities in mylog.txt
 ZCZC 04 10 L19 Submit my assignment using myscript.sh
+ZCZC 05 70 L11 Read the OSC10 chapter 10
+ZCZC 05 60 L12 Try the demos for this week
+ZCZC 05 60 L13 Do the exercise from the previous mid term problems
+ZCZC 05 75 L14 Do the assignment 4, change the memory, fetch and extract for this week file and modify the memory2
+ZCZC 05 30 L15 Put another links that helps during OS class
+ZCZC 05 30 L17 Review my peer links for this week
+ZCZC 05 30 L18 Update my log for this week
+ZCZC 05 15 L19 Submit my week 5 assignment
