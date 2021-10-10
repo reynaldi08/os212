@@ -32,4 +32,4 @@ permalink: /LINKS/
   * b. [Virtual Memory I](http://www.mampirlah.com/teknik-informatika/pengertian-tujuan-dan-fungsi-virtual-memory.html)
   * In this week quiz, there are lot's of question regarding the memory which are virtual memory and the physical memory. There are the definition of virtual memory and also the types and function of the virtual memory
   * c. [Virtual Memory II](https://searchstorage.techtarget.com/definition/virtual-memory)
-  * This webpage alsoi helps me understand more about the virtual memory because it explain about virtual memory vs physical memory. It also discuss the limitations of the virtual memory besides of the benefits.
+  * This webpage also helps me understand more about the virtual memory because it explain about virtual memory vs physical memory. It also discuss the limitations of the virtual memory besides of the benefits.
