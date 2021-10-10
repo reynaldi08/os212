@@ -26,3 +26,10 @@ permalink: /LINKS/
   * I put the page that explain the C language because I think I need to start understanding the C language faster because every quiz, there's always some topic using the C language and also Sir Rahmat ask the class alot about the C language.
   * b. [In operating systems](https://www.guru99.com/c-programming-language.html#:~:text='C'%20language%20is%20widely%20used,using%20'C'%20programming%20language.)
   * The connection about the operating systems and used C language as the programming language. Also some example how to try it and the benefits of using C language
+## 6. Memory
+  * a. [Memory Allocation in C languange](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
+  * The page is explain the memory allocation in C language. This site also helps me to answer the quiz because there some example of the code using C language also answering the forum question about malloc(), calloc(), free()
+  * b. [Virtual Memory I](http://www.mampirlah.com/teknik-informatika/pengertian-tujuan-dan-fungsi-virtual-memory.html)
+  * In this week quiz, there are lot's of question regarding the memory which are virtual memory and the physical memory. There are the definition of virtual memory and also the types and function of the virtual memory
+  * c. [Virtual Memory II](https://searchstorage.techtarget.com/definition/virtual-memory)
+  * This webpage alsoi helps me understand more about the virtual memory because it explain about virtual memory vs physical memory. It also discuss the limitations of the virtual memory besides of the benefits.
