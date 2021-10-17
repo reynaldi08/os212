@@ -50,4 +50,4 @@ ZCZC 06 40 L14 Fork the memory for week 6 assignment
 ZCZC 06 45 L15 Update my links for this weeks material
 ZCZC 06 30 L17 Review my peer links
 ZCZC 06 15 L18 Update my log for week 6
-ZCZC 06 20 L19 Submit the assignment for week 6
+ZCZC 06 20 L19 Submit the assignment for week06
