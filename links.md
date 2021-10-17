@@ -33,3 +33,12 @@ permalink: /LINKS/
   * In this week quiz, there are lot's of question regarding the memory which are virtual memory and the physical memory. There are the definition of virtual memory and also the types and function of the virtual memory
   * c. [Virtual Memory II](https://searchstorage.techtarget.com/definition/virtual-memory)
   * This webpage also helps me understand more about the virtual memory because it explain about virtual memory vs physical memory. It also discuss the limitations of the virtual memory besides of the benefits.
+## 7. Threads
+  * a. [Definition](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/4_Threads.html)
+  * In this page, I learn more to become understand about threads and also know the difference between single and multiple threads. There also some picture to help me understand the material
+  * b. [Advantages & Disadvantages]( https://www.tutorialspoint.com/single-threaded-and-multi-threaded-processes#:~:text=Single%20threaded%20processes%20contain%20the,program%20at%20the%20same%20time.)
+  * This page also explain the benefits of using multithreads but there are still some negative impact if we use a multiple threads
+## 8. Process Comunication
+  * a. [Inter Process](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
+  * This webpage tells the definition and tells more about the shared memory and the memory passing in the comunication. Also there are some example that using IPC systems.
+
