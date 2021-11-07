@@ -41,4 +41,12 @@ permalink: /LINKS/
 ## 8. Process Comunication
   * a. [Inter Process](https://www.geeksforgeeks.org/inter-process-communication-ipc/)
   * This webpage tells the definition and tells more about the shared memory and the memory passing in the comunication. Also there are some example that using IPC systems.
+## 9. Deadlock
+  * a. [Introducing](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)
+  * This page give me more information to understand about deadlock which occurswhen a thread enters a waiting state becauase is held by another waiting process. It also give us some prevent deadlock situation and some exercises.
+## 10. Starvation
+  * a. [Definiton](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/#:~:text=Starvation%20is%20the%20problem%20that,from%20ever%20getting%20the%20CPU.)
+  * The information to understand when the starvation is occurs and it also provide some explanation the difference between Deadlock and Starvation.
+  * b. [Definiton II](https://www.educative.io/edpresso/what-is-a-starvation-problem-in-an-operating-system)
+  * This page is another page if the first page is quite to understand. This page also tells some resource in our execution isn't assign and some measure to handle the starvation.
 
