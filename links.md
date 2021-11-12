@@ -49,4 +49,8 @@ permalink: /LINKS/
   * The information to understand when the starvation is occurs and it also provide some explanation the difference between Deadlock and Starvation.
   * b. [Definiton II](https://www.educative.io/edpresso/what-is-a-starvation-problem-in-an-operating-system)
   * This page is another page if the first page is quite to understand. This page also tells some resource in our execution isn't assign and some measure to handle the starvation.
-
+## 11. CPU Schedulling
+ * a. [CPU Burst](https://www.fandimedia.com/2018/09/apa-maksud-core-dan-threads-pada.html)
+ * This webpage contains the more explaination about scheduling especially in CPU. Also the definition about CPU burst.
+ * b. [Linux](https://www.linuxfromscratch.org/lfs/view/11.0/chapter05/chapter05.html)
+ * This page is for the material for this week which actually can learn more by reading many topics for Linux Operating System. For this week, the assignment is from chapter 1 until chapter 5. 
