@@ -66,4 +66,13 @@ ZCZC W08 180 L15 Do the linux from scratch chapter 05
 ZCZC W08 45 L16 Update my links.md for this week topics
 ZCZC W08 30 L18 Review my friend links for this week
 ZCZC W08 35 L19 Update my log for this week
+ZCZC W09 45 L11 Reading the OSC10 chapter 11
+ZCZC W09 75 L12 Do the demos for this week
+ZCZC W09 60 L13 Try the Final Term for exercise
+ZCZC W09 120 L14 Do the linux from scratch 11.0 chapther 6 and 7
+ZCZC W09 45 L15 Update my links for this week
+ZCZC W09 30 L17 Review my peer links
+ZCZC W09 30 L18 Update my log for this week
+ZCZC W09 40 L19 Submit my week9 assignment
+  
  

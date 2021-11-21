@@ -53,4 +53,9 @@ permalink: /LINKS/
  * a. [CPU Burst](https://www.fandimedia.com/2018/09/apa-maksud-core-dan-threads-pada.html)
  * This webpage contains the more explaination about scheduling especially in CPU. Also the definition about CPU burst.
  * b. [Linux](https://www.linuxfromscratch.org/lfs/view/11.0/chapter05/chapter05.html)
- * This page is for the material for this week which actually can learn more by reading many topics for Linux Operating System. For this week, the assignment is from chapter 1 until chapter 5. 
+ * This page is for the material for this week which actually can learn more by reading many topics for Linux Operating System. For this week, the assignment is from chapter 1 until chapter 5.
+## 12. Storage
+ * a. [Introducing](https://www.techopedia.com/definition/1115/storage#:~:text=Storage%20is%20a%20mechanism%20that,documents%2C%20pictures%20and%20raw%20data.)
+ * This page explaine the defintion and what can be found for searching storage in operating systems.
+ * b. [BIOS](https://whatis.techtarget.com/definition/BIOS-basic-input-output-system#:~:text=BIOS%20(basic%20input%2Foutput%20system)%20is%20the%20program%20a,%2C%20keyboard%2C%20mouse%20and%20printer.)
+ * The page contains information about BIOS. Basically BIOS always start before continue to the Operating Systems. We can also install software or drivers.
