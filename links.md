@@ -59,3 +59,5 @@ permalink: /LINKS/
  * This page explaine the defintion and what can be found for searching storage in operating systems.
  * b. [BIOS](https://whatis.techtarget.com/definition/BIOS-basic-input-output-system#:~:text=BIOS%20(basic%20input%2Foutput%20system)%20is%20the%20program%20a,%2C%20keyboard%2C%20mouse%20and%20printer.)
  * The page contains information about BIOS. Basically BIOS always start before continue to the Operating Systems. We can also install software or drivers.
+## 13. [I/O](https://www.w3schools.in/operating-system-tutorial/input-output/#:~:text=An%20I%2FO%20port%20usually,the%20host%20for%20sending%20output.)
+ * a. This page contains the explaination about I/O and especially in Operating Systems which help more understand this week material.

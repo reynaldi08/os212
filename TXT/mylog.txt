@@ -74,5 +74,11 @@ ZCZC W09 45 L15 Update my links for this week
 ZCZC W09 30 L17 Review my peer links
 ZCZC W09 30 L18 Update my log for this week
 ZCZC W09 40 L19 Submit my week9 assignment
-  
- 
+ZCZC W10 65 L11 Reading the OS chapter 12
+ZCZC W10 80 L12 Try the demos 
+ZCZC W10 45 L13 Do the previous FinalTerm problems
+ZCZC W10 85 L14 Do the linux from scratch 11.0 chapter 8 but error
+ZCZC W10 30 L15 Update my links for this week
+ZCZC W10 30 L17 Review my peer links
+ZCZC W10 35 L18 Update my log for this week
+ZCZC W10 50 L19 Submit my week 10 assignment 
